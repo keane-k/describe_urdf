@@ -1,5 +1,5 @@
 # ROS2 Robot Simulation with Gazebo Sim
-This project provides a reproducible workflow for simulating a custom robot in ROS2 using Gazebo Sim (new Gazebo).\
+This project provides a reproducible workflow for simulating a custom robot in ROS2 using Gazebo Sim (new Gazebo).
 
 ## Overview
 It demonstrates how to:
